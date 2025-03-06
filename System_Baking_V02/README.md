@@ -1,6 +1,6 @@
 # Banking System - Version 02
 
-For the secund version of the system we must implement operations: deposit, withdrawal and statement in Functions and include two new functions: Account Registration and User Registration.
+For the second version of the system we must implement operations: deposit, withdrawal and statement in Functions and include two new functions: Account Registration and User Registration.
 
 **General Objective** 
 - Separate the functions existing of withdrawal, deposit and statement in function;
