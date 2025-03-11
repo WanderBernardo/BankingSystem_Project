@@ -16,3 +16,8 @@
 
 - Structural: Class
 - [System Banking - Version: 03](https://github.com/WanderBernardo/BankingSystem_Project/tree/main/System_Baking_V03)
+
+
+**Install VSCode**
+
+https://github.com/WanderBernardo/Python_InstallVsCodeConfiguration
